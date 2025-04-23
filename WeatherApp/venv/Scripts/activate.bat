@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Rahul\OneDrive\Desktop\WeatherApp\venv
+set VIRTUAL_ENV=C:\Users\Rahul\OneDrive\Desktop\BDA\BDA-DS\Weather-Pattern-Prediction-Using-Big-Data-Analytics-and-Hadoop\WeatherApp\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
